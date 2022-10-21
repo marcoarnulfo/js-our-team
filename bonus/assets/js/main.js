@@ -16,8 +16,8 @@ const team = [
         image: "./assets/img/walter-gordon-office-manager.jpg"
     },
     {
-        Name: 'Angela Lopez',
-        Role: 'Social Media Manager',
+        name: 'Angela Lopez',
+        role: 'Social Media Manager',
         image: "./assets/img/angela-lopez-social-media-manager.jpg"
     },
     {
